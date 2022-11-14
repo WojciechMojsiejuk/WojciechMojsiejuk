@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wojciech%20Mojsiejuk&fontSize=40)
 - 👋 Hi, I’m @WojciechMojsiejuk
 - 👀 I’m interested in ML, AI, R&D, Computer Vision, Game Dev, Python
 - 🌱 I’m currently learning Vue.js, Statistics + ML-oriented courses on edX
